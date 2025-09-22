@@ -1,0 +1,17 @@
+/* Center calculator on screen */
+.calculatorWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #2b2d42, #1a1c2c);
+}
+
+/* Calculator box */
+.calculatorContainer {
+  width: 340px;
+  padding: 20px;
+  border-radius: 20px;
+  background: #1f2235;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+}

@@ -1,0 +1,15 @@
+.displayScreen {
+  width: 100%;
+  height: 70px;
+  background: #2a2d45;
+  border-radius: 12px;
+  color: #fff;
+  font-size: 32px;
+  font-weight: 600;
+  text-align: right;
+  padding: 18px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  overflow-x: auto;
+  white-space: nowrap;
+}
